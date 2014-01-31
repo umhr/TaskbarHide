@@ -1,0 +1,6 @@
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarHide\bin\Release\TaskbarHide.exe.config
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarHide\bin\Release\TaskbarHide.exe
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarHide\bin\Release\TaskbarHide.pdb
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarHide\obj\Release\TaskbarHide.csprojResolveAssemblyReference.cache
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarHide\obj\Release\TaskbarHide.exe
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarHide\obj\Release\TaskbarHide.pdb

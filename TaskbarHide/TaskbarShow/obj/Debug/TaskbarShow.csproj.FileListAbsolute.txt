@@ -1,0 +1,5 @@
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarShow\bin\Debug\TaskbarShow.exe.config
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarShow\bin\Debug\TaskbarShow.exe
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarShow\bin\Debug\TaskbarShow.pdb
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarShow\obj\Debug\TaskbarShow.exe
+C:\Users\宗士\SkyDrive\studies\1401\TaskbarHide\TaskbarShow\obj\Debug\TaskbarShow.pdb
